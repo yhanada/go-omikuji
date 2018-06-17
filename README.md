@@ -1,0 +1,2 @@
+# go-omikuji
+Omikuji service
